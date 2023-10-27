@@ -1,0 +1,17 @@
+body {
+  margin: 0px;
+  font-family: 'Poppins';
+}
+
+a {
+  text-decoration: none;
+}
+ ::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+ }
+ ::-webkit-scrollbar-thumb {
+  background: #eeeeee;
+  border-radius: 9px;
+ }
+
